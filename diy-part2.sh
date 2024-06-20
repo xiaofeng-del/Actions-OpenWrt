@@ -24,6 +24,7 @@ git clone -b 18.06 https://github.com/jerrykuku/luci-app-argon-config.git feeds/
 git clone https://github.com/gngpp/luci-app-design-config.git feeds/luci/applications/luci-app-design-config
 
 git clone -b master --single-branch --filter=blob:none https://github.com/vernesong/OpenClash.git package/luci-app-openclash
+git clone https://github.com/sirpdboy/luci-app-ddns-go.git package/ddns-go
 
 git clone https://github.com/rufengsuixing/luci-app-adguardhome package/luci-app-adguardhome
 
