@@ -2,16 +2,14 @@
 
 使用[P3TERX/Actions-OpenWrt](https://github.com/P3TERX/Actions-OpenWrt)的模板对lean's lede源码进行编译
 
-## 纯净版X86_64 OpenWrt
-已包含插件wireguard、ttyd终端、上网时间控制、openclash、全能推送、动态dns、网络唤醒、upnp、openvpn服务器、带宽监控
-![openwrt_1](https://github.com/LemonCrab666/Actions-OpenWrt/assets/55867630/157fdc4b-0f9f-4a68-b995-f2c9ef4914ad)
-![openwrt_2](https://github.com/LemonCrab666/Actions-OpenWrt/assets/55867630/a5b0ff96-ee52-495b-bf6c-89129130a959)
-![openwrt_3](https://github.com/LemonCrab666/Actions-OpenWrt/assets/55867630/3fa26f87-813e-4244-bcef-9c855735fd49)
-![openwrt_4](https://github.com/LemonCrab666/Actions-OpenWrt/assets/55867630/1f9a4aad-9ec6-4f5a-a2d2-01a4f6ed1cfe)
-![openwrt_5](https://github.com/LemonCrab666/Actions-OpenWrt/assets/55867630/c399ac4d-72a1-451e-a8a6-3a82986d73d8)
-![openwrt_6](https://github.com/LemonCrab666/Actions-OpenWrt/assets/55867630/5fa1772d-5162-4a57-961f-aac512bcf8e1)
+## 超纯净版X86_64 OpenWrt
+已包含插件wireguard、ttyd终端、openclash、全能推送、dns-go、upnp、openvpn服务器、带宽监控
+## Credits![微信截图_20240621001813](https://github.com/xiaofeng-del/Actions-OpenWrt/assets/173141866/0d651001-4b39-4dcf-8a94-53f8dbab4084)
 
-## Credits
+![微信截图_20240621001929](https://github.com/xiaofeng-del/Actions-OpenWrt/assets/173141866/94077af1-8cc7-4c84-bce0-18cb6e606528)![微信截图_20240621001935](https://github.com/xiaofeng-del/Actions-OpenWrt/assets/173141866/048a311c-249c-4c18-ae78-e069df31e021)
+
+![微信截图_20240621001917](https://github.com/xiaofeng-del/Actions-OpenWrt/assets/173141866/4d0812a5-2ce7-4d09-bf4f-4208d6d83573)
+![微信截图_20240621001838](https://github.com/xiaofeng-del/Actions-OpenWrt/assets/173141866/ad20344d-fbc7-4d87-97f8-fe1cb89b8467)
 
 - [Microsoft Azure](https://azure.microsoft.com)
 - [GitHub Actions](https://github.com/features/actions)
